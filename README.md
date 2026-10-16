@@ -44,7 +44,7 @@ Designed during my Master's as a hands-on project in microcontroller hardware an
 5. **PCB layout:** 2-layer board, solid ground plane on the bottom layer, decoupling capacitors placed close to each supply pin, crystal and load capacitors placed close to the MCU
 6. **Routing:** USB D+/D− routed as a short differential pair, 0.3 mm signal traces, 0.5 mm power traces, ground vias and copper pours around the regulator
 7. **DRC:** design rules check passed against the manufacturer's capabilities
-8. **Fabrication outputs:** Gerbers, drill file, BOM and component placement file
+8. **Fabrication outputs:** Gerber file, drill file, BOM and component placement file
 
 ## Programming Interface
 - **SWD:** connect an ST-Link to the SWD header for programming and debugging.
